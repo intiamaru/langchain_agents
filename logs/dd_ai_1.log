@@ -1,0 +1,62 @@
+(langchain_agents) bash-3.2$ python agents_dd.py 
+Protagonist Description:
+Elandir, the white knight of Eriador, your valor knows no bounds. With your shining armor and unwavering dedication, you embody the epitome of chivalry. Your swordmanship is peerless, and your sense of justice drives you to overcome any challenges on your quest to find the ancient key of Raganor.
+Storyteller Description:
+Dungeon Master, the weaver of tales, holds the key to unfathomable realms. With infinite imagination and a mischievous smile, they guide players through perils and triumphs. Their voice carries the weight of countless adventures, creating a world where heroes rise, legends are born, and destinies intertwine.
+Original quest:
+Find the ancient key of Raganor.
+
+Detailed quest:
+Elandir, in your quest to find the ancient key of Raganor, you must venture into the treacherous depths of the Whispering Caverns. There, guarded by spectral whispers and labyrinthine tunnels, lies the Forgotten Oracle. Seek its wisdom to unlock the secrets that reveal the key's hidden resting place.
+
+(Dungeon Master): Elandir, in your quest to find the ancient key of Raganor, you must venture into the treacherous depths of the Whispering Caverns. There, guarded by spectral whispers and labyrinthine tunnels, lies the Forgotten Oracle. Seek its wisdom to unlock the secrets that reveal the key's hidden resting place.
+
+
+(Elandir the white knight of Eriador): I steel myself for the journey ahead, tightening the straps of my armor and ensuring my sword is securely fastened to my side. With a determined stride, I make my way towards the entrance of the Whispering Caverns. As I step inside, the air grows colder and the whispers begin to echo in my ears. Ignoring the eerie sounds, I press on, my eyes scanning the darkness for any signs of the Forgotten Oracle. I move cautiously, ready to defend myself against any spectral guardians that may stand in my way. It is my duty to find the ancient key of Raganor, and I will not falter in my quest. It is your turn, Dungeon Master.
+
+
+(Dungeon Master): As you step into the Whispering Caverns, Elandir, the darkness envelops you, and the whispers grow louder, swirling around you like ethereal tendrils. The cavern walls are damp and slick, and the air is heavy with a musty scent. You can feel the weight of the ancient secrets that lie within these depths.
+
+As you cautiously make your way forward, your footsteps echoing through the cavern, you notice a faint glow emanating from a narrow passageway to your left. The glow flickers and dances, beckoning you to investigate. 
+
+Curiosity piqued, you decide to follow the glow. The passageway twists and turns, leading you deeper into the heart of the caverns. The whispers grow louder, their words becoming clearer, though still unintelligible. The air becomes colder, and a chill runs down your spine.
+
+Finally, you reach a small chamber bathed in an eerie blue light. In the center of the chamber stands a pedestal, upon which rests a glowing crystal orb. The whispers seem to emanate from the orb itself, their voices now distinct and haunting.
+
+What do you do, Elandir the white knight of Eriador? It is your turn.
+
+
+(Elandir the white knight of Eriador): I approach the pedestal with caution, my hand resting on the hilt of my sword. I study the crystal orb, trying to discern its purpose and the nature of the whispers that surround it. With a deep breath, I reach out and gently touch the orb, hoping to gain some insight or guidance.
+
+As my hand makes contact with the orb, a surge of energy courses through me. Visions flash before my eyes, images of ancient ruins, hidden chambers, and a towering fortress. I see a map etched into the stone walls, revealing the location of the ancient key of Raganor.
+
+With this newfound knowledge, I step back from the pedestal, my mind racing with possibilities. I must find these ruins, uncover the hidden chambers, and make my way to the fortress. The key awaits me there, and I will not rest until it is in my possession.
+
+It is your turn, Dungeon Master.
+
+
+(Dungeon Master): As you step back from the pedestal, the whispers begin to fade, their haunting voices growing distant. The crystal orb continues to glow softly, but its energy no longer pulses through you. You now possess the knowledge of the ancient ruins, hidden chambers, and the location of the fortress where the key of Raganor awaits.
+
+With determination in your heart, you leave the small chamber and continue your journey through the Whispering Caverns. The whispers grow fainter as you move further away from the pedestal, and the darkness seems to recede slightly.
+
+As you navigate the labyrinthine tunnels, you come across a fork in the path. To your left, the tunnel leads deeper into the caverns, while to your right, a narrow passage seems to wind upwards. The choice is yours, Elandir the white knight of Eriador.
+
+What do you do? It is your turn.
+
+
+(Elandir the white knight of Eriador): I pause for a moment, considering my options. The path to the left leads deeper into the caverns, where I may encounter more challenges and potential dangers. However, it may also hold valuable clues or treasures that could aid me in my quest.
+
+On the other hand, the narrow passage to the right seems to wind upwards, suggesting a possible exit from the Whispering Caverns. It could lead me closer to the ancient ruins and the fortress where the key of Raganor awaits.
+
+After weighing the risks and rewards, I decide to take the narrow passage to the right. With a determined stride, I ascend the winding path, my eyes scanning for any signs of the ancient ruins or further clues that may guide me on my journey.
+
+It is your turn, Dungeon Master.
+
+
+(Dungeon Master): As you ascend the narrow passage, Elandir, the air grows thinner and the temperature begins to rise. The walls of the cavern give way to a rocky slope, and you find yourself climbing steadily upwards. The whispers of the caverns fade into the distance, replaced by the sound of your own footsteps echoing through the tunnel.
+
+After what feels like an eternity of climbing, you reach a small opening at the top of the passage. As you step out into the open air, you find yourself standing on the edge of a cliff, overlooking a vast expanse of rolling hills and dense forests. In the distance, you catch a glimpse of ancient ruins, their crumbling walls and towering spires a testament to the passage of time.
+
+With the ruins in sight, you know that you are one step closer to finding the ancient key of Raganor. But the path ahead is still treacherous, and the challenges that await you within those ruins are unknown.
+
+What do you do, Elandir the white knight of Eriador? It is your turn.
